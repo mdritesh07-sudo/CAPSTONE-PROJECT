@@ -2,7 +2,6 @@
 
 **Public GitHub repository:** [CAPSTONE-PROJECT](https://github.com/mdritesh07-sudo/CAPSTONE-PROJECT)
 
-> Replace the placeholder above with your public GitHub URL before submission. Never publish an API key, password, or other secret.
 
 ## Project overview
 
